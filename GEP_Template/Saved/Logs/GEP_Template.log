@@ -2313,3 +2313,101 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.14-14.31.20:368][290]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.14-14.31.20:368][290]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory Validating asset
 [2026.04.14-14.31.20:369][290]AssetCheck: /Game/Inventory/Widgets/WB_Slot Validating asset
+[2026.04.14-14.31.44:521][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3534.094482
+[2026.04.14-14.31.44:701][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.14-14.31.44:701][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3534.266357, Update Interval: 313.619812
+[2026.04.14-14.31.46:539][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.14-14.34.21:951][986]LogDerivedDataCache: C:/Users/aidan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.14-14.36.31:216][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-14.36.31:279][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory] ([2] browsable assets)...
+[2026.04.14-14.36.31:279][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory]
+[2026.04.14-14.36.31:294][440]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory
+[2026.04.14-14.36.31:294][440]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/BP_InventoryAA71114F49F9B259A50C2EA48B232CC5.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/ThirdPerson/Blueprints/BP_Inventory.uasset'
+[2026.04.14-14.36.31:301][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.845 ms (total: 595.133 ms)
+[2026.04.14-14.36.31:373][440]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.14-14.36.31:373][440]LogContentValidation: Enabled validators:
+[2026.04.14-14.36.31:373][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-14.36.31:373][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-14.36.31:373][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-14.36.31:373][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-14.36.31:373][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-14.36.31:373][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-14.36.31:373][440]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory Validating asset
+[2026.04.14-14.36.40:520][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-14.36.40:598][685]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory] ([2] browsable assets)...
+[2026.04.14-14.36.40:598][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory]
+[2026.04.14-14.36.40:616][685]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory
+[2026.04.14-14.36.40:616][685]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/BP_Inventory6CF055814C129603588FEB981C83EADC.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/ThirdPerson/Blueprints/BP_Inventory.uasset'
+[2026.04.14-14.36.40:626][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.639 ms (total: 700.772 ms)
+[2026.04.14-14.36.40:712][685]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.14-14.36.40:712][685]LogContentValidation: Enabled validators:
+[2026.04.14-14.36.40:712][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-14.36.40:712][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-14.36.40:712][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-14.36.40:712][685]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-14.36.40:712][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-14.36.40:712][685]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-14.36.40:712][685]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory Validating asset
+[2026.04.14-14.36.42:372][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-14.36.42:458][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory] ([2] browsable assets)...
+[2026.04.14-14.36.42:458][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory]
+[2026.04.14-14.36.42:474][781]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory
+[2026.04.14-14.36.42:476][781]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/BP_Inventory9B16C79E413EF3E1567FF9B582841BA2.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/ThirdPerson/Blueprints/BP_Inventory.uasset'
+[2026.04.14-14.36.42:486][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.555 ms (total: 814.327 ms)
+[2026.04.14-14.36.42:571][781]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.14-14.36.42:571][781]LogContentValidation: Enabled validators:
+[2026.04.14-14.36.42:571][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-14.36.42:571][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-14.36.42:571][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-14.36.42:571][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-14.36.42:571][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-14.36.42:571][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-14.36.42:571][781]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory Validating asset
+[2026.04.14-14.36.44:494][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-14.36.44:583][904]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Inventory] ([2] browsable assets)...
+[2026.04.14-14.36.44:586][904]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Inventory.WB_Inventory]
+[2026.04.14-14.36.44:586][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Inventory]
+[2026.04.14-14.36.44:594][904]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Inventory
+[2026.04.14-14.36.44:594][904]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/WB_InventoryBB32110244174FE6D363B0B569816DD1.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Widgets/WB_Inventory.uasset'
+[2026.04.14-14.36.44:606][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.058 ms (total: 924.386 ms)
+[2026.04.14-14.36.44:699][904]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.14-14.36.44:699][904]LogContentValidation: Enabled validators:
+[2026.04.14-14.36.44:699][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-14.36.44:699][904]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-14.36.44:699][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-14.36.44:699][904]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-14.36.44:699][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-14.36.44:699][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-14.36.44:699][904]AssetCheck: /Game/Inventory/Widgets/WB_Inventory Validating asset
+[2026.04.14-14.36.45:571][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-14.36.45:660][959]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Widgets/WB_Slot] ([2] browsable assets)...
+[2026.04.14-14.36.45:660][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slot]
+[2026.04.14-14.36.45:674][959]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Slot
+[2026.04.14-14.36.45:674][959]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/WB_SlotB5218D42481E66F926BB619D9166CB71.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Widgets/WB_Slot.uasset'
+[2026.04.14-14.36.45:688][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.220 ms (total: 1.04 sec)
+[2026.04.14-14.36.45:773][959]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.14-14.36.45:774][959]LogContentValidation: Enabled validators:
+[2026.04.14-14.36.45:774][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-14.36.45:774][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-14.36.45:774][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-14.36.45:774][959]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-14.36.45:774][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-14.36.45:774][959]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-14.36.45:774][959]AssetCheck: /Game/Inventory/Widgets/WB_Slot Validating asset
+[2026.04.14-14.36.47:004][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-14.36.47:096][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Blueprints/S_itemStructure] ([1] browsable assets)...
+[2026.04.14-14.36.47:096][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Blueprints/S_itemStructure]
+[2026.04.14-14.36.47:099][ 59]LogSavePackage: Moving output files for package: /Game/Inventory/Blueprints/S_itemStructure
+[2026.04.14-14.36.47:099][ 59]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/S_itemStructure51D1091A47BCB0D845892384475F424B.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Blueprints/S_itemStructure.uasset'
+[2026.04.14-14.36.47:119][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.753 ms (total: 1.15 sec)
+[2026.04.14-14.36.47:208][ 59]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.14-14.36.47:208][ 59]LogContentValidation: Enabled validators:
+[2026.04.14-14.36.47:208][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-14.36.47:208][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-14.36.47:208][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-14.36.47:208][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-14.36.47:208][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-14.36.47:208][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-14.36.47:208][ 59]AssetCheck: /Game/Inventory/Blueprints/S_itemStructure Validating asset
+[2026.04.14-14.37.04:806][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.14-14.37.09:595][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
