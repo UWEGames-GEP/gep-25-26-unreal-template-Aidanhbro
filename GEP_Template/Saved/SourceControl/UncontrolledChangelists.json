@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/WB_Inventory.uasset",
-				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/WB_Slot.uasset",
 				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
 				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Blueprints/S_itemStructure.uasset",
 				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Widgets/WB_Slot.uasset",
@@ -17,6 +15,9 @@
 				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/ThirdPerson/Blueprints/BP_Inventory.uasset",
 				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Collectible.uasset",
 				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Blueprints/BP_Item.uasset",
+				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4I/NB8PD7V5S2SHTSAEWFDFUR.uasset",
+				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/WB_Inventory.uasset",
+				"C:/Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/WB_Slot.uasset",
 				"D:/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/WB_Inventory.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
