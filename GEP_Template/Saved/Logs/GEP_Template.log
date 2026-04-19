@@ -1666,3 +1666,90 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.19-12.19.34:036][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.19-12.19.34:036][576]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory Validating asset
 [2026.04.19-12.19.34:036][576]AssetCheck: /Game/Inventory/Blueprints/BP_Item Validating asset
+[2026.04.19-12.19.51:303][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.19-12.20.19:717][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-12.20.19:800][418]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slot] ([2] browsable assets)...
+[2026.04.19-12.20.19:802][418]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slot.WB_Slot]
+[2026.04.19-12.20.19:803][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slot]
+[2026.04.19-12.20.19:819][418]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Slot
+[2026.04.19-12.20.19:819][418]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/WB_Slot188A96264B9B5257088631BFEA863C49.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Widgets/WB_Slot.uasset'
+[2026.04.19-12.20.19:829][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.453 ms (total: 357.685 ms)
+[2026.04.19-12.20.19:919][418]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-12.20.19:919][418]LogContentValidation: Enabled validators:
+[2026.04.19-12.20.19:919][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-12.20.19:919][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-12.20.19:919][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-12.20.19:919][418]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-12.20.19:919][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-12.20.19:919][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-12.20.19:919][418]AssetCheck: /Game/Inventory/Widgets/WB_Slot Validating asset
+[2026.04.19-12.20.20:821][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.04.19-12.20.22:872][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.19-12.22.38:127][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 998.489807
+[2026.04.19-12.22.39:126][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-12.22.39:126][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 999.154968, Update Interval: 313.896301
+[2026.04.19-12.25.23:498][547]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2026.04.19-12.25.23:512][547]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.19-12.25.39:009][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.04.19-12.26.02:125][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2026.04.19-12.26.02:135][840]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.19-12.26.34:589][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.04.19-12.26.58:155][149]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/Widgets/WB_Inventory.WB_Inventory
+[2026.04.19-12.26.58:155][149]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.19-12.26.58:162][149]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.19-12.27.51:155][269]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.19-12.28.02:970][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.04.19-12.28.06:355][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1326.680420
+[2026.04.19-12.28.06:505][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-12.28.06:505][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1326.814575, Update Interval: 348.822906
+[2026.04.19-12.28.48:748][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.19-12.28.48:752][331]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2026.04.19-12.28.48:752][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Blueprints/BP_Item] ([2] browsable assets)...
+[2026.04.19-12.28.48:752][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Blueprints/BP_Item]
+[2026.04.19-12.28.48:760][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Blueprints/BP_Item_Auto2
+[2026.04.19-12.28.48:760][331]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/BP_Item_Auto21A2BED8D4ADF078DD77B97B85D1C0B0E.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/Autosaves/Game/Inventory/Blueprints/BP_Item_Auto2.uasset'
+[2026.04.19-12.28.48:762][331]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Inventory] ([2] browsable assets)...
+[2026.04.19-12.28.48:766][331]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Inventory.WB_Inventory]
+[2026.04.19-12.28.48:766][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Inventory]
+[2026.04.19-12.28.48:775][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Widgets/WB_Inventory_Auto2
+[2026.04.19-12.28.48:775][331]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/WB_Inventory_Auto2798600BC42F28E91BAF3479F91D957F5.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/Autosaves/Game/Inventory/Widgets/WB_Inventory_Auto2.uasset'
+[2026.04.19-12.28.48:776][331]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slot] ([2] browsable assets)...
+[2026.04.19-12.28.48:780][331]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slot.WB_Slot]
+[2026.04.19-12.28.48:780][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slot]
+[2026.04.19-12.28.48:799][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Widgets/WB_Slot_Auto2
+[2026.04.19-12.28.48:800][331]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/WB_Slot_Auto29D01ECDB47D743A5DB4F48BCDC950AED.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/Autosaves/Game/Inventory/Widgets/WB_Slot_Auto2.uasset'
+[2026.04.19-12.28.48:801][331]LogFileHelpers: Auto-saving content packages took 0.049
+[2026.04.19-12.28.49:099][348]Cmd: ACTOR HIDE SELECTED
+[2026.04.19-12.29.30:413][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.19-12.29.43:632][367]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.04.19-12.29.43:632][367]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.19-12.29.44:332][368]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.19-12.29.44:461][370]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.19-12.30.05:987][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.04.19-12.30.05:992][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-12.30.06:081][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Blueprints/BP_Item] ([2] browsable assets)...
+[2026.04.19-12.30.06:081][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Blueprints/BP_Item]
+[2026.04.19-12.30.06:088][623]LogSavePackage: Moving output files for package: /Game/Inventory/Blueprints/BP_Item
+[2026.04.19-12.30.06:088][623]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/BP_Item46FA9F16455CFA28391D5CA929179AB8.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Blueprints/BP_Item.uasset'
+[2026.04.19-12.30.06:090][623]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Widgets/WB_Inventory] ([2] browsable assets)...
+[2026.04.19-12.30.06:090][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Inventory]
+[2026.04.19-12.30.06:097][623]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Inventory
+[2026.04.19-12.30.06:097][623]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/WB_InventoryB1D506EF4A6BA977869AC59EAC31A88A.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Widgets/WB_Inventory.uasset'
+[2026.04.19-12.30.06:098][623]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slot] ([2] browsable assets)...
+[2026.04.19-12.30.06:101][623]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slot.WB_Slot]
+[2026.04.19-12.30.06:101][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slot]
+[2026.04.19-12.30.06:119][623]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Slot
+[2026.04.19-12.30.06:119][623]LogSavePackage: Moving '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Saved/WB_Slot4D0762184C4DFAACB64DB0849E9C66B0.tmp' to '../../../../../../Users/aidan/Documents/GitHub/gep-25-26-unreal-template-Aidanhbro/GEP_Template/Content/Inventory/Widgets/WB_Slot.uasset'
+[2026.04.19-12.30.06:130][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.441 ms (total: 495.126 ms)
+[2026.04.19-12.30.06:216][623]LogContentValidation: Display: Starting to validate 3 assets
+[2026.04.19-12.30.06:216][623]LogContentValidation: Enabled validators:
+[2026.04.19-12.30.06:216][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-12.30.06:216][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-12.30.06:216][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-12.30.06:216][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-12.30.06:216][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-12.30.06:216][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-12.30.06:216][623]AssetCheck: /Game/Inventory/Blueprints/BP_Item Validating asset
+[2026.04.19-12.30.06:218][623]AssetCheck: /Game/Inventory/Widgets/WB_Inventory Validating asset
+[2026.04.19-12.30.06:218][623]AssetCheck: /Game/Inventory/Widgets/WB_Slot Validating asset
+[2026.04.19-12.30.10:653][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
